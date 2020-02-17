@@ -7,5 +7,5 @@ jobs:
       - checkout # check out the code in the project directory
       - run: echo "hello world"
              ls -l
-      - run: git status
+             git status
       
